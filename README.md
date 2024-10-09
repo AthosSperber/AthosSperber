@@ -2,7 +2,7 @@
 
 ### Olá! 👋
 
-Sou Athos, um desenvolvedor no início da minha jornada, com foco em aprender e crescer continuamente. Tenho conhecimentos em Python, PHP, Django, além das habilidades essenciais que o mercado busca, como desenvolvimento de CRUDs e domínio de HTML/CSS. Sou apaixonado por resolver problemas e estou sempre em busca de desafios que me ajudem a evoluir.
+Sou Athos, um desenvolvedor no início da minha jornada, com foco em aprender e crescer continuamente. Tenho conhecimentos em Python, PHP, Django. Sou apaixonado por resolver problemas e estou sempre em busca de desafios que me ajudem a evoluir.
 
 ### Tecnologias mais usadas:
 Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
