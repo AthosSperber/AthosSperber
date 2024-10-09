@@ -21,7 +21,6 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 Com **MySQL**, garanto a estruturação e integridade de dados relacionais, enquanto com **MongoDB** aproveito a flexibilidade para trabalhar com dados não estruturados e escalar aplicações com eficiência.
 
 ### Conecte-se comigo:
-Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar e explorar o vasto mundo da tecnologia juntos!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/athos-sperber)
 [![Instagram](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/seu-perfil-instagram)
