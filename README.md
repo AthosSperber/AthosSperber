@@ -2,9 +2,9 @@
 
 ### Olá! 👋
 
-Sou **Athos**, um desenvolvedor apaixonado por aprendizado contínuo e por resolver problemas de forma criativa. No início da minha jornada como desenvolvedor, tenho focado em construir um sólido conhecimento técnico com tecnologias que me desafiem a evoluir.
+Sou **Athos**, um desenvolvedor apaixonado por aprendizado contínuo e por resolver problemas de forma criativa.
 
-Atualmente, estou em busca de novas oportunidades onde possa aplicar minhas habilidades em **Python**, **PHP**, **Django**, e também explorar mais profundamente **bancos de dados** e tecnologias **frontend**. Meu objetivo é entregar soluções que não só resolvam problemas, mas que superem as expectativas!
+Atualmente, estou em busca de novas oportunidades onde possa aplicar minhas habilidades. Meu objetivo é entregar soluções que não só resolvam problemas, mas que superem as expectativas!
 
 ### Tecnologias mais usadas:
 Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
@@ -23,7 +23,7 @@ Com **MySQL**, garanto a estruturação e integridade de dados relacionais, enqu
 ### Conecte-se comigo:
 Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar e explorar o vasto mundo da tecnologia juntos!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/seu-perfil-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/athos-sperber)
 [![Instagram](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/seu-perfil-instagram)
 
 ## Github Stats
