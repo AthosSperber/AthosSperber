@@ -1,5 +1,3 @@
-# Athos Sperber
-
 ### Olá! 👋
 
 Sou **Athos**, um desenvolvedor apaixonado por aprendizado contínuo e por resolver problemas de forma criativa.
