@@ -25,7 +25,6 @@ Com **MySQL**, garanto a estruturação e integridade de dados relacionais, enqu
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AthosSperber&theme=transparent&border_color=FFD700&show_icons=true&icon_color=FFD700&hide_title=true&text_color=FFF&ring_color=FFD700&border_radius=20) 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AthosSperber&layout=compact&theme=transparent&border_color=FFD700&hide_title=true&text_color=FFF&border_radius=20)
 
 ---
 
