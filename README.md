@@ -1,33 +1,29 @@
-### Olá! 👋
+# Athos Sperber — Engenheiro de Software (Arquitetura, Governança e Sistemas)
 
-Sou **Athos**, um desenvolvedor apaixonado por aprendizado contínuo e por resolver problemas de forma criativa.
+Sou desenvolvedor com foco em **arquitetura de sistemas**, **governança** e **integração plataforma → produto**.
+Gosto de construir soluções com **contratos claros**, rastreabilidade e demos reproduzíveis.
 
-Atualmente, estou em busca de novas oportunidades onde possa aplicar minhas habilidades. Meu objetivo é entregar soluções que não só resolvam problemas, mas que superem as expectativas!
+**Stack principal:** Python • TypeScript • React • Vite • Tailwind • CI/CD (GitHub Actions)
 
-### Tecnologias mais usadas:
-Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
+## Projetos em destaque
 
-![Python](https://img.shields.io/badge/-Python-1C1C1C?style=for-the-badge&logo=python&logoColor=FFD700)
-![PHP](https://img.shields.io/badge/-PHP-1C1C1C?style=for-the-badge&logo=php&logoColor=FFD700)
-![Django](https://img.shields.io/badge/-Django-1C1C1C?style=for-the-badge&logo=django&logoColor=FFD700)
-![HTML](https://img.shields.io/badge/-HTML-1C1C1C?style=for-the-badge&logo=html5&logoColor=FFD700)
-![CSS](https://img.shields.io/badge/-CSS-1C1C1C?style=for-the-badge&logo=css3&logoColor=FFD700)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![MySQL](https://img.shields.io/badge/-MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=FFD700)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=FFD700)
+### 1) governanca-system (framework)
+Framework de governança com **rastreabilidade por eventos**, fluxo **Task → Action → Report** e separação explícita entre **histórico ≠ simulação**.
 
-Com **MySQL**, garanto a estruturação e integridade de dados relacionais, enquanto com **MongoDB** aproveito a flexibilidade para trabalhar com dados não estruturados e escalar aplicações com eficiência.
+- Repo: https://github.com/AthosSperber/governanca-system  
+- Demo (GitHub Pages): https://athossperber.github.io/governanca-system/  
+- Snapshot governado (JSON): https://athossperber.github.io/governanca-system/governed_snapshot_conexao_solar.json  
 
-### Conecte-se comigo:
+### 2) ConexaoSolar (produto React/TS)
+Landing/produto **mobile-first** para consultores, com seção de **Painel do Consultor** consumindo artefatos governados (sem backend).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/athos-sperber)
-[![Instagram](https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/seu-perfil-instagram)
+- Repo: https://github.com/AthosSperber/ConexaoSolar  
+- Deploy: https://conexao-solar.vercel.app  
+- Painel do Consultor: /para-consultores  
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AthosSperber&theme=transparent&border_color=FFD700&show_icons=true&icon_color=FFD700&hide_title=true&text_color=FFF&ring_color=FFD700&border_radius=20) 
+## Contato
+- LinkedIn: https://www.linkedin.com/in/athos-sperber
 
 ---
 
-💡 *Sempre buscando soluções inovadoras e desafios que me façam crescer como desenvolvedor e pessoa.*
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AthosSperber&theme=transparent&show_icons=true&hide_title=true&border_radius=16)
